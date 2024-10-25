@@ -18,4 +18,4 @@
 </p>
 
 ## 📦 APK File
-You can download the APK file [here](https://github.com/BoburjonMurodov/QuickQuiz/blob/main/QuickQuiz.apk).
+You can download the APK file [here](./app-debug.apk).
